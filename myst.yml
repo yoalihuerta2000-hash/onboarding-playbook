@@ -38,6 +38,10 @@ project:
       - file: sesion2/3_6_cierre.md
 
     - file: anexos.md
+
+    - title: Carpetatest
+      children: 
+      - file: carpetatest/documentotest.md
   
 
   options:
