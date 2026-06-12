@@ -13,6 +13,7 @@ project:
     - file: intro.md
     - title: Básicos de Onboarding
       children: 
+      - file: cap1/test.md
       - file: cap1/1_1_objetivo.md
       - file: cap1/1_2_exitoso.md
       - file: cap1/1_3_cc.md
