@@ -39,6 +39,10 @@ project:
 
     - file: anexos.md
 
+    - title: Carpeta nueva
+      children:
+      - file: carpetanueva/documento1.md
+
    
    
   
