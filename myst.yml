@@ -39,9 +39,7 @@ project:
 
     - file: anexos.md
 
-    - title: Carpetatest
-      children: 
-      - file: carpetatest/documentotest.md
+   
   
 
   options:
