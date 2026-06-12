@@ -2,9 +2,7 @@
 
 El objetivo del onboarding es ayudar a cada doctor a **alcanzar su meta específica en el menor tiempo posible**, mediante un plan de acción claro utilizando las herramientas correctas de Doctoralia.
 
-:::{note} Nota
-El onboarding no se trata solo de configurar una herramienta ⚙️, sino de acelerar el momento en que el doctor percibe valor real 💡.
-:::
+TEST 
 
 Para llevar esto a la práctica, todo onboarding debe responder tres preguntas clave desde el inicio:
 
